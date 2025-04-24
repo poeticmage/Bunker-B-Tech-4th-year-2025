@@ -1,0 +1,17 @@
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+C>>
+C>>  Staad Filename: D:\PERSONAL\Jupyter Notebook saved\bunker\basic bunker final 6.std
+C>>
+C>>  Error Filename: D:\PERSONAL\Jupyter Notebook saved\bunker\basic bunker final 6.err
+C>>
+C>>  Date: Thursday, April 24, 2025     Time: 06 : 32 : 05 PM
+C>>
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+W=>   111: 2001 TO 2021 THICKNESS 0.3
+*=> Warning, Plate # 2009 is not found in structure, removed from list.
+W=>   111: 2001 TO 2021 THICKNESS 0.3
+*=> Warning, Plate # 2010 is not found in structure, removed from list.
+W=>   111: 2001 TO 2021 THICKNESS 0.3
+*=> Warning, Plate # 2011 is not found in structure, removed from list.
+W=>   111: 2001 TO 2021 THICKNESS 0.3
+*=> Warning, Plate # 2012 is not found in structure, removed from list.

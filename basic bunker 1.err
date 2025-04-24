@@ -1,0 +1,63 @@
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+C>>
+C>>  Staad Filename: D:\PERSONAL\Jupyter Notebook saved\bunker\basic bunker 1.std
+C>>
+C>>  Error Filename: D:\PERSONAL\Jupyter Notebook saved\bunker\basic bunker 1.err
+C>>
+C>>  Date: Thursday, April 24, 2025     Time: 06 : 26 : 23 PM
+C>>
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+E=>    97: TIME HISTORY LOAD
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>    99: DIRECTION Y
+*=> Error, Load Factor is not properly defined for load R%d, removed from list
+E=>    99: DIRECTION Y
+*=> Error, REFERENCE LOAD command ignored by program.  NO loads provided.
+E=>    99: DIRECTION Y
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   100: TIME VS FORCE
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   101: 0 0
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   102: 0.01 200
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   103: 0.02 0
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   104: END
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   107: TIME HISTORY LOAD
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   109: DIRECTION Y
+*=> Error, Load Factor is not properly defined for load R%d, removed from list
+E=>   109: DIRECTION Y
+*=> Error, REFERENCE LOAD command ignored by program.  NO loads provided.
+E=>   109: DIRECTION Y
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   110: TIME VS FORCE
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   111: 0 0
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   112: 0.01 300
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   113: 0.02 0
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   114: END
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   117: TIME HISTORY LOAD
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   119: DIRECTION Y
+*=> Error, Load Factor is not properly defined for load R%d, removed from list
+E=>   119: DIRECTION Y
+*=> Error, REFERENCE LOAD command ignored by program.  NO loads provided.
+E=>   119: DIRECTION Y
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   120: TIME VS FORCE
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   121: 0 0
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   122: 0.01 500
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   123: 0.02 0
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>   124: END
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
