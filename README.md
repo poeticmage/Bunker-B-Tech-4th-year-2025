@@ -1,12 +1,12 @@
 # MODELING AND ANALYSIS OF A BLAST RESISTANT UNDERGROUND BUNKER WITH FINITE ELEMENT METHOD
 
-Modeling and Analysis of a Blast-Resistant Underground Bunker with Finite Element Method
+<h3>Modeling and Analysis of a Blast-Resistant Underground Bunker with Finite Element Method</h3>
 This repository contains the complete project documentation and implementation details for the final year B.Tech thesis titled "Modeling and Analysis of a Blast-Resistant Underground Bunker with Finite Element Method", submitted by Priyadarshi Mukhopadhyay (Roll No: 21CE8022) at the Department of Civil Engineering, National Institute of Technology, Durgapur, under the supervision of Dr. Pronab Roy.
 
- Project Overview
+<h4>Project Overview</h4> 
 The project focuses on the design, modeling, and analysis of a reinforced concrete underground bunker capable of resisting blast loads. Using the Finite Element Method (FEM), simulations were performed to understand the structural behavior of the bunker under varying blast scenarios, including different explosive charge weights and soil types (clay and sand).
 
- Key Highlights
+<h4>Key Highlights</h4> 
 Modeling Tool: STAAD Pro 2014, FreeCAD
 
 Simulation Tools: CalculiX, Elmer FEM, SimScale, Code_Aster
@@ -21,7 +21,7 @@ Blast Load: Modeled using Friedlander waveform approximation
 
 Analysis: Based on IS 4991:1968 and IS 5499:1969 standards
 
- Structure
+<h4>Structure</h4> 
 1. Introduction: History and evolution of bunkers and blast wave theory
 
 2. Background: Blast wave behavior, key parameters, and design criteria
@@ -34,7 +34,7 @@ Analysis: Based on IS 4991:1968 and IS 5499:1969 standards
 
 6-7. Citations and Bibliography: Reference materials and standards used
 
- Findings
+<h4>Findings</h4> 
 Deformation increases with blast intensity and reduces with standoff distance.
 
 Soil type plays a critical role: Clay dampens blast waves better than sand, reducing deformation significantly.
@@ -42,7 +42,7 @@ Soil type plays a critical role: Clay dampens blast waves better than sand, redu
 Proper underground embedment and material choice can effectively mitigate blast damage.
 
 
- Acknowledgments
+ <h4>Acknowledgments</h4>
 Thanks to:
 
 Dr. Pronab Roy – for guidance and supervision
@@ -51,6 +51,6 @@ Dr. P. Topadar and Dr. A. K. Datta – for teaching FEM and supporting the proje
 
 My parents – for emotional support throughout
 
- License
+<h4> License</h4>
 This project is a part of academic work and is released for educational and non-commercial use only.
 
